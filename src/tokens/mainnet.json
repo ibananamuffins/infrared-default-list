@@ -153,6 +153,13 @@
       "image": "usdbr.svg",
       "symbol": "USDbr",
       "tags": ["stablecoin"]
+    },
+    {
+      "address": "0xFC89d8Beb356ee287CcF266F7ade4Fc49fB501Ea",
+      "decimals": 18,
+      "image": "olp.svg",
+      "symbol": "OLP",
+      "tags": []
     }
   ]
 }

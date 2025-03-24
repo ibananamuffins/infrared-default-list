@@ -39,6 +39,14 @@
       "imageLight": "dolomite-light.svg",
       "name": "Dolomite",
       "url": "https://dolomite.io"
+    },
+    {
+      "description": "Moby, The Most Liquid Options Dex Unlocking a Next-Gen Derivatives Market",
+      "id": "moby",
+      "imageDark": "moby.svg",
+      "imageLight": "moby.svg",
+      "name": "Moby",
+      "url": "https://app.moby.trade"
     }
   ]
 }

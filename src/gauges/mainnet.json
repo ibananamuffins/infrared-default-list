@@ -317,6 +317,20 @@
         "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
         "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce"
       ]
+    },
+    {
+      "beraRewardsVault": "0x70BDdFDCDA76D3bC49636d05aBe65F840215f568",
+      "lpTokenAddress": "0xFC89d8Beb356ee287CcF266F7ade4Fc49fB501Ea",
+      "mintUrl": "https://app.moby.trade/pools",
+      "name": "OLP",
+      "protocol": "moby",
+      "types": ["vault"],
+      "underlyingTokens": [
+        "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce", 
+        "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c", 
+        "0x549943e04f40284185054145c6E4e9568C1D3241"
+      ]
     }
   ]
 }
